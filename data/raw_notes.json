@@ -1,0 +1,23 @@
+﻿[
+  {
+    "encounter_id": "ENC-1001",
+    "patient_id": "P-501",
+    "encounter_date": "2026-09-28",
+    "physician": "Dr. Sarah Ahmed",
+    "clinical_note": "Patient presents with severe shortness of breath, chronic cough, and fatigue. History of heavy smoking. Preliminary assessment indicates chronic obstructive pulmonary disease (COPD) with acute lower respiratory infection."
+  },
+  {
+    "encounter_id": "ENC-1002",
+    "patient_id": "P-502",
+    "encounter_date": "2026-09-29",
+    "physician": "Dr. Usman Khan",
+    "clinical_note": "Patient reports persistent polyuria, polydipsia, and unexplained weight loss over the past 3 months. Fasting blood glucose level is 210 mg/dL. Diagnosis consistent with Type 2 Diabetes Mellitus."
+  },
+  {
+    "encounter_id": "ENC-1003",
+    "patient_id": "P-503",
+    "encounter_date": "2026-09-30",
+    "physician": "Dr. Sarah Ahmed",
+    "clinical_note": "Patient complains of severe throbbing headache localized on the left side, accompanied by nausea and photophobia. Symptoms consistent with acute migraine without aura."
+  }
+]
