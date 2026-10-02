@@ -2,22 +2,26 @@
   {
     "encounter_id": "ENC-1001",
     "patient_id": "P-501",
-    "encounter_date": "2026-09-28",
-    "physician": "Dr. Sarah Ahmed",
-    "clinical_note": "Patient presents with severe shortness of breath, chronic cough, and fatigue. History of heavy smoking. Preliminary assessment indicates chronic obstructive pulmonary disease (COPD) with acute lower respiratory infection."
+    "clinical_note": "Patient presents with persistent productive cough, high fever, and shortness of breath for 3 days. Chest X-ray confirms left lower lobe infiltrate. Diagnosed with acute bacterial pneumonia."
   },
   {
     "encounter_id": "ENC-1002",
     "patient_id": "P-502",
-    "encounter_date": "2026-09-29",
-    "physician": "Dr. Usman Khan",
-    "clinical_note": "Patient reports persistent polyuria, polydipsia, and unexplained weight loss over the past 3 months. Fasting blood glucose level is 210 mg/dL. Diagnosis consistent with Type 2 Diabetes Mellitus."
+    "clinical_note": "54-year-old male with poorly controlled blood sugar levels. Fasting blood glucose is 210 mg/dL and HbA1c is 9.2%. Patient has Type 2 Diabetes Mellitus without acute complications."
   },
   {
     "encounter_id": "ENC-1003",
     "patient_id": "P-503",
-    "encounter_date": "2026-09-30",
-    "physician": "Dr. Sarah Ahmed",
-    "clinical_note": "Patient complains of severe throbbing headache localized on the left side, accompanied by nausea and photophobia. Symptoms consistent with acute migraine without aura."
+    "clinical_note": "Patient presents with severe throbbing headache on the right side accompanied by nausea and photophobia. Denies history of hypertension. Assessment: Migraine without aura."
+  },
+  {
+    "encounter_id": "ENC-1004",
+    "patient_id": "P-504",
+    "clinical_note": "68-year-old female complaining of progressive knee pain and morning stiffness lasting 15 minutes. Physical exam shows crepitus in bilateral knees. Primary osteoarthritis of right knee."
+  },
+  {
+    "encounter_id": "ENC-1005",
+    "patient_id": "P-505",
+    "clinical_note": "Patient came in complaining of severe chest pain. However, ECG and troponin tests were completely normal. Patient denies cardiac history. Final diagnosis: Gastroesophageal Reflux Disease (GERD)."
   }
 ]
